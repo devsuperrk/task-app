@@ -71,7 +71,4 @@ marked as "in progress" but not completed within 24 hours.
   to ensure core features were implemented efficiently. Refinement of the UI/UX design can be a future enhancement.
 - **Challenges**: Implementing the hierarchical structure for tasks and subtasks required careful planning and thorough
   testing to ensure data integrity and proper display of task hierarchies.
-  You can copy and paste this content into a README.md file in your project repository. This format will provide a clear
-  and organized guide for setting up and running the application, as well as explanations of design choices and
-  challenges encountered during development. Feel free to customize and expand upon this template according to your
-  project's specific implementation and requirements.
+
